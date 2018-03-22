@@ -9,3 +9,5 @@ Game view: This window creates the game. A total of 16 tiles are created. If mat
 user loses points as penalty for wrong selection.
 
 Author view: This window shows the author details and also it contains the image of author.
+Git Repo link: 
+https://github.com/shelbyjoji/Legendary-phrase.git
